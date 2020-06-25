@@ -1,0 +1,20 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "black.arreferenceimage"
+    },
+    {
+      "filename" : "poster.arreferenceimage"
+    },
+    {
+      "filename" : "water.arreferenceimage"
+    },
+    {
+      "filename" : "water2.arreferenceimage"
+    }
+  ]
+}
